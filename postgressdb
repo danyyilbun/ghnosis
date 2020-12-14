@@ -52,7 +52,6 @@ CREATE TABLE public."User" (
 );
 
 
-ALTER TABLE public."User" OWNER TO postgres;
 
 --
 -- TOC entry 202 (class 1259 OID 16398)
@@ -84,7 +83,6 @@ CREATE TABLE public.memory_quiz (
 );
 
 
-ALTER TABLE public.memory_quiz OWNER TO postgres;
 
 --
 -- TOC entry 204 (class 1259 OID 16420)
